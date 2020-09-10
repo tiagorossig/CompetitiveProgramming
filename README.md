@@ -1,4 +1,4 @@
-# CompetitiveProgramming'
+# CompetitiveProgramming
 
 Most of the content in this repo is from the course CS104C: Competitive Programming.
 
